@@ -1,6 +1,7 @@
 # Api_Personas
 Api sencilla CRUD 
 Estable con python 3.10
+Se recomienda utilzar postgresql
 
 Dependencias externas y paquetes
 Package           Version
